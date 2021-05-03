@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2021-04-30
 img: agenda.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: April 2021
+client: N/A
+category: C++ Development
 description: This is an agenda written in C++! The data is stored in a SQLite database.
 ---
