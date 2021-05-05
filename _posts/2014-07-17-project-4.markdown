@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 4
+date: 2021-04-30
+title: Physics Analysis Code
+img: my_research.jpg
+alt: image-alt
+project-date: false
+client: false
+category: My PhD
+description: In this part I will describe the code I use to analyze ATLAS data.
+link: "https://github.com/diegobaronm/PhDATLAS"
+link-description: Have a look of my code!
+---

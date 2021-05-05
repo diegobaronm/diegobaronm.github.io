@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 2
+date: 2021-04-30
+title: Agenda
+img: agenda.jpg
+alt: image-alt
+project-date: false
+client: false
+category: C++ Development
+description: This is an agenda written in C++! The data is stored in a SQLite database.
+link: "https://github.com/diegobaronm/Agenda"
+link-description: Play with my code!
+---

@@ -1,11 +1,14 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2021-04-30
-img: agenda.jpg
+title: My Research
+img: research.jpg
 alt: image-alt
-project-date: April 2021
-client: N/A
-category: C++ Development
-description: This is an agenda written in C++! The data is stored in a SQLite database.
+project-date: false
+client: false
+category: My PhD
+description: In this part I will describe my PhD project.
+link: "https://github.com/diegobaronm/1st-Year-Report/blob/master/thesis_main.pdf"
+link-description: A more in dept description of my project!
 ---

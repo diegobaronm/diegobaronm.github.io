@@ -12,11 +12,11 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
+                            <h2 style="color: #e74c3c;">{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.description %}
-                                <p>{{ post.description }}</p>
+                                <p style="color:white;">{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
@@ -32,13 +32,20 @@
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
-                                    <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <li style="color:white;"> Category:
+                                        <strong><p style="color:white;">{{ post.category }}</p>
                                         </strong>
                                     </li>
                                 {% endif %}
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            {% if post.link %}
+                            <div class="col-lg-8 col-lg-offset-2 text-center">
+                                <a href= {{ post.link }} class="btn btn-lg btn-outline">
+                                    <i class="fa fa-download"></i> {{post.link-description}}
+                                </a>
+                            </div>
+                            {% endif %}
+                            <button type="button" class="btn btn-default" background-color:#4CAF50; data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
                 </div>
