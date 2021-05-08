@@ -8,7 +8,7 @@ alt: image-alt
 project-date: false
 client: false
 category: My PhD
-description: In this part I will describe my PhD project.
+description: In this part I will describe my PhD project. <img src="img/leptons.png" alt="Girl in a jacket">
 link: "https://github.com/diegobaronm/1st-Year-Report/blob/master/thesis_main.pdf"
 link-description: A more in dept description of my project!
 ---
