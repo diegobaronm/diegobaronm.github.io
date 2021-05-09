@@ -8,7 +8,7 @@ alt: image-alt
 project-date: false
 client: false
 category: My PhD
-description: In this part I will describe my PhD project. <img src="img/leptons.png" alt="Girl in a jacket">
+description: My research is in the field of experimental high energy physics. First, my reviview for experts, you can skip this paragraph if you are not familiar with physics. You can come back to it later. I am currently working in the ATLAS collaboration, measuring the performance of the tau identification algorith and deriving the corresponding scale factors to correct the Monte Carlo simulations. My meausurement is noble because these scale factors are independent from lepton violation because we are using Z boson decays into pairs of tau leptons. The other part of my PhD will be dedicated to a precision standard model measurement, we will try to observe VBF Z production decaying in tau-tau final states. <img src="img/leptons.png" alt="Girl in a jacket">
 link: "https://github.com/diegobaronm/1st-Year-Report/blob/master/thesis_main.pdf"
 link-description: A more in dept description of my project!
 ---
