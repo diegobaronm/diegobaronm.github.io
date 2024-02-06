@@ -40,11 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/diego-alberto-baron-moreno-3a26b015a/?locale=en_US
-  - title: twitter
-    url: https://twitter.com/DieBarMor
-  - title: instagram
-    url: https://www.instagram.com/quantumchef/
+    url: https://www.linkedin.com/in/diego-baron-moreno-3a26b015a/
   - title: github
     url: https://github.com/diegobaronm
 
