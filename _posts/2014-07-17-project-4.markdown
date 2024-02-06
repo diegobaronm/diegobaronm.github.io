@@ -7,8 +7,8 @@ img: my_research.jpg
 alt: image-alt
 project-date: false
 client: false
-category: My PhD
-description: In this part I will describe the code I use to analyze ATLAS data.
-link: "https://github.com/diegobaronm/PhDATLAS"
-link-description: Have a look of my code!
+category: Physics Analysis
+description: This code is used for analysing the data and simulation from the ATLAS experiment. It does many things such as producing histograms, re-weighting of kinematic distributions, calculating data-driven backgrounds, performing fits, producing plots, submitting jobs to a condor server and much more. It is just here to show an example of the code that I write when I want to do analysis. 
+link: "https://github.com/diegobaronm/VBF-Analysis"
+link-description: Have a look at my code!
 ---
